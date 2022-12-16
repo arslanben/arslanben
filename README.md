@@ -11,19 +11,19 @@
 
 - 👨‍💻 My Projects **I don't have a project yet, but I'm working on it.**
 
-- 📝 Learning [I'm taking courses on JS - CSS - HTML5, I'm trying to learn.](I'm taking courses on JS - CSS - HTML5, I'm trying to learn.)
+- 📝 Learning **I'm taking courses on JS - CSS - HTML5, I'm trying to learn.**
 
 - 💬 What am I doing? **I'm new here and trying to learn something.**
 
 <br>
 
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <br>
 
-### 🎵My Spotify
+### 🎵 Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=li0xh8cmn1vjullng8l1z497l&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">Connect with me:</h3>
