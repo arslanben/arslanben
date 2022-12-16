@@ -37,6 +37,6 @@
 <a href="https://instagram.com/arslanben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arslanben" height="30" width="40" /></a>
   
   <div align="center">
-<img src="https://www.upload.ee/image/14750174/1.png" align="left" style="width: 40%" />
+<img src="https://www.upload.ee/image/14750177/ss.png" align="left" style="width: 20%" />
 </div>
 </p>
