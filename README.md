@@ -29,14 +29,8 @@
 
 <br>
 
-### 🎵 Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=li0xh8cmn1vjullng8l1z497l&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/arslanben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arslanben" height="30" width="40" /></a>
   
-  <div align="center">
-<img src="https://www.upload.ee/image/14750177/ss.png" align="left" style="width: 20%" />
-</div>
 </p>
