@@ -11,7 +11,7 @@
 
 - 👨‍💻 My Projects **I don't have a project yet, but I'm working on it.**
 
-- 📝 Learning **I'm taking courses on JS - CSS - HTML5, I'm trying to learn.**
+- 📝 Learning **I'm taking courses on JS - CSS - HTML5 -Linux - Python - Cyber Security, I'm trying to learn.**
 
 - 💬 What am I doing? **I'm new here and trying to learn something.**
 
@@ -19,7 +19,7 @@
 
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br>
 
