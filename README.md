@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm arslan</h1>
-<h3 align="center">Learning JS - CSS - HTML5</h3>
+<h3 align="center">For now I am learning JS - CSS - HTML5 for Web Development and PYTHON for Cyber Security</h3>
 
 <br>
 
