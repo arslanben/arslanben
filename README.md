@@ -11,8 +11,8 @@
   <a href="https://github.com/arslanben"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E7E7E&center=true&Center=true&width=435&lines=Computer+Programmer" alt="Typing SVG" /></a>
 <br>
   
-  
-**I have knowledge on many topics such as penetration testing, penetration testing tools used worldwide, security tools and the use of Kali Linux (Man in the Middle, SQL Injections, XSS, ARP Spoofing, DNS Spoofing, Wireshark, Bettercap, etc.). I have the ability to learn quickly, so I believe that I can quickly put the knowledge I have into practice with my colleagues and supervisors where I work.** 
+**I describe myself as a lifelong learner, which means I am not afraid to take on new challenges and try my hand at different technologies and projects of varying scales.**  
+**I have knowledge on many topics such as penetration testing, penetration testing tools used worldwide, security tools and the use of Kali Linux (Man in the Middle, SQL Injections, XSS, ARP Spoofing, DNS Spoofing, Wireshark, Bettercap, etc.).** 
   
 <br>  
 
@@ -24,13 +24,8 @@
 
 <br>
 
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 <br>
-
-
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VsCode" width="40" height="40"/> </a>
@@ -39,8 +34,19 @@
 
 <br>
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/arslanben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arslanben" height="30" width="40" /></a>
+
+<br>
+
+<br>
+ 
+<br>
+  
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
 </p>
