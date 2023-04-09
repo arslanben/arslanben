@@ -8,10 +8,13 @@
 </div>  
 
 <p align="center">
-  <a href="https://github.com/arslanben"><img src="https://readme-typing-svg.demolab.com?pause=1000&color=7E7E7E&width=435&lines=Computer+Programmer" alt="Typing SVG" /></a>
+  <a href="https://github.com/arslanben"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E7E7E&center=true&Center=true&width=435&lines=Computer+Programmer" alt="Typing SVG" /></a>
 <br>
-
-<br>
+  
+  
+**I have knowledge on many topics such as penetration testing, penetration testing tools used worldwide, security tools and the use of Kali Linux (Man in the Middle, SQL Injections, XSS, ARP Spoofing, DNS Spoofing, Wireshark, Bettercap, etc.). I have the ability to learn quickly, so I believe that I can quickly put the knowledge I have into practice with my colleagues and supervisors where I work.** 
+  
+<br>  
 
 - 👨‍💻 My Projects **I don't have a project yet, but I'm working on it.**
 
