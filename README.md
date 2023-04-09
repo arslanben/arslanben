@@ -8,7 +8,7 @@
 </div>  
 
 <p align="center">
-  <a href="https://github.com/arslanben"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Programmer" alt="Typing SVG" /></a>
+  <a href="https://github.com/arslanben"><img src="https://readme-typing-svg.demolab.com?pause=1000&color=7E7E7E&width=435&lines=Computer+Programmer" alt="Typing SVG" /></a>
 <br>
 
 <br>
