@@ -16,11 +16,11 @@
   
 <br>  
 
-- 👨‍💻 My Projects **I don't have a project yet, but I'm working on it.**
+- 👨‍💻 My Projects **A simple KEYLOGGER written in PYTHON(https://github.com/arslanben/keylogger) , The first project I prepared while learning PYTHON language. Gifmaker.(https://github.com/arslanben/gifmaker) , A special website list prepared after a long time and used by myself.(https://github.com/arslanben/recon-websites)**
 
-- 📝 Learning **I'm taking courses on JS - CSS - HTML5 -Linux - Python - Cyber Security, I'm trying to learn.**
+- 📝 Learning **I'm taking courses on JS - CSS - HTML5 - Linux - Python - Cyber Security, I'm trying to learn.**
 
-- 💬 What am I doing? **I'm new here and trying to learn something.**
+- 💬 My Links **[Medium](https://medium.com/@arslanben) - [LinkedIn](https://www.linkedin.com/in/arslanben/) - [TryHackMe](https://tryhackme.com/p/arslanben)**
 
 <br>
 
@@ -45,8 +45,5 @@
 <br>
  
 <br>
-  
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
 </p>
