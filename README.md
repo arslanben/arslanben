@@ -21,7 +21,7 @@
 
 
 
-- 💬 My Links **[Medium](https://medium.com/@arslanben) - [LinkedIn](https://www.linkedin.com/in/arslanben/) - [TryHackMe](https://tryhackme.com/p/arslanben)**
+- 💬 My Links **[Medium](https://arslanben.medium.com/) - [LinkedIn](https://www.linkedin.com/in/arslanben/) - [TryHackMe](https://tryhackme.com/p/arslanben)**
 
 <br>
 
